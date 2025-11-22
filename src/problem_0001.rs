@@ -20,7 +20,7 @@ impl Solution {
 
 #[cfg(test)]
 mod test {
-    use crate::problem_1::Solution;
+    use super::*;
     use rstest::*;
 
     #[rstest]
